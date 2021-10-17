@@ -15,6 +15,7 @@
 		3A3D7A72271CC40400F1E458 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A3D7A70271CC40400F1E458 /* LaunchScreen.storyboard */; };
 		3A3D7A7D271CC40500F1E458 /* LoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3D7A7C271CC40500F1E458 /* LoginTests.swift */; };
 		3A3D7A88271CC40500F1E458 /* LoginUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3D7A87271CC40500F1E458 /* LoginUITests.swift */; };
+		3A3D7A9E271CDA9B00F1E458 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3D7A9D271CDA9B00F1E458 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3A3D7A83271CC40500F1E458 /* LoginUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A3D7A87271CC40500F1E458 /* LoginUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUITests.swift; sourceTree = "<group>"; };
 		3A3D7A89271CC40500F1E458 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A3D7A9D271CDA9B00F1E458 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3A3D7A6E271CC40400F1E458 /* Assets.xcassets */,
 				3A3D7A70271CC40400F1E458 /* LaunchScreen.storyboard */,
 				3A3D7A73271CC40400F1E458 /* Info.plist */,
+				3A3D7A9D271CDA9B00F1E458 /* SecondViewController.swift */,
 			);
 			path = Login;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				3A3D7A6A271CC3FB00F1E458 /* ViewController.swift in Sources */,
 				3A3D7A66271CC3FB00F1E458 /* AppDelegate.swift in Sources */,
+				3A3D7A9E271CDA9B00F1E458 /* SecondViewController.swift in Sources */,
 				3A3D7A68271CC3FB00F1E458 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
